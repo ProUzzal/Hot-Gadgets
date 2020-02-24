@@ -1,0 +1,84 @@
+.container {
+  margin-bottom: 50px;
+}
+.buy-n-btn {
+  background-color: black;
+  color: white;
+  padding: 5px 12px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.row {
+  background-color: lightpink;
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+.nav-link {
+    font-size: 20px;
+    display: block;
+    padding: .5rem 1rem;
+    font-weight: 600;
+}
+.card-footer {
+  background-color: white;
+  border: none;
+}
+.card img {
+  padding: 25px 40px;
+}
+.card {
+  border: none;
+  box-shadow: 15px 20px 80px gray;
+  border-radius: 10px;
+}
+#button {
+  margin-left: 80px;
+}
+.card-footer {
+  text-align: center;
+  padding: 5px;
+}
+.See-all {
+  color: #ffb237;
+  font-weight: 600;
+  font-size: 18px;
+}
+.card-body {
+  text-align: center;
+}
+.w-25 {
+  width: 200px;
+}
+#cat {
+  text-align: center;
+}
+.last-cat {
+  background-color: wheat;
+  padding: 20px;
+}
+.footer-section {
+  text-align: center;
+  font-size: 15px;
+  color: gray;
+}
+.cat-last {    padding: 27px;
+    box-shadow: 6px 60px 80px #FFFFFF;
+    border-radius: 9px;
+}
+}
+.separate-pic{padding}
+.cat-last h4{padding: 10px;
+margin-left: 20px;
+}
+.cat::after{width: 30px;
+height: 5px;
+color: black;}
+.cat::after {
+    content: "";
+    display: block;
+    height: 8px;
+    background-image: linear-gradient(to right, #FF9C35,#FFD019);
+    width: 60px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 9px;}
